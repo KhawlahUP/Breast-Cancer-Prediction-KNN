@@ -17,8 +17,9 @@ The model demonstrated excellent performance on the test dataset:
 
 ## Model Performance
 ### Classification Report
-![Classification Report](Images/classification_report.png)
-*Figure: Detailed metrics showing the model's accuracy, precision, and recall scores.*
+![Classification Report](images/classification_report.png)
+
+Detailed metrics showing the model's accuracy, precision, and recall scores.
 
 ## Repository Contents
 * `Breast_Cancer_KNN.ipynb`: The complete Python notebook containing the code, EDA, and model implementation.
